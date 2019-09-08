@@ -7,7 +7,6 @@ using kboopendata22.api.Data;
 using kboopendata22.api.Dtos.User;
 using kboopendata22.api.Helpers;
 using kboopendata22.api.Models;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace kboopendata22.api.Controllers

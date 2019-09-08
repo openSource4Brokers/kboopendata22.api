@@ -8,7 +8,6 @@ using kboopendata22.api.Data;
 using kboopendata22.api.Dtos.Photo;
 using kboopendata22.api.Helpers;
 using kboopendata22.api.Models;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 

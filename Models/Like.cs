@@ -1,5 +1,3 @@
-using kboopendata22.api.Models;
-
 namespace kboopendata22.api.Models
 {
     public class Like

@@ -1,7 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using kboopendata22.api.Models;
 using Microsoft.AspNetCore.Identity;
 
 namespace kboopendata22.api.Models
